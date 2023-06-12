@@ -1,5 +1,5 @@
 # Landscapes-Tutorial
-Tutorial on Fitness Landscape Analysis and Visualisation.
+Tutorial on Search Landscapes Analysis and Visualisation.
 
 Presented by Prof. Gabriela Ochoa at the
 Summer School on Automatic Algorithm Design 2023 ([SSAAD 2023](https://ssaad2023.sciencesconf.org/))
