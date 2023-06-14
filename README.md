@@ -12,7 +12,7 @@ The tutorial is structured into four parts:
 2. Introduction to complex networks ([part2_networks.pdf](handouts/part2_networks.pdf))
 3. Local optima networks (LONs) ([part3_lons.pdf](handouts/part3_lons.pdf))
 
-4. Search Trajectory networks (STNs) ([part4_stns.pdf](handouts/part3_stns.pdf))
+4. Search Trajectory networks (STNs) ([part4_stns.pdf](handouts/part4_stns.pdf))
 
 ## Practical Lab
 Across the tutorial, we will discuss two case studies on landscape analysis and local optima networks. I have created separate repositories for these case studies with a general description, data and source code, and suggested exercises. 
